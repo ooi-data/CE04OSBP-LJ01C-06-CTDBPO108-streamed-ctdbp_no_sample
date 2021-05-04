@@ -1,3 +1,5 @@
-# Stream Template Repository
+# CE04OSBP-LJ01C-06-CTDBPO108-streamed-ctdbp_no_sample
 
-This repository is a template for all the other repositories.
+Stream Type: Science<br>
+Stream Content: Data Products<br>
+Instrument Group Code: CTD<br>
