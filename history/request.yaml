@@ -1,5 +1,5 @@
-data_ready: true
+data_ready: false
 data_stream: CE04OSBP-LJ01C-06-CTDBPO108-streamed-ctdbp_no_sample
-last_request: '2021-05-04T21:23:50.461913Z'
+last_request: '2021-07-19T18:29:19.074886Z'
 response: https://raw.githubusercontent.com/ooi-data/CE04OSBP-LJ01C-06-CTDBPO108-streamed-ctdbp_no_sample/main/history/response.json
-status: success
+status: failed
